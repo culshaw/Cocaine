@@ -1,0 +1,8 @@
+Cocaine is a browser detection library
+
+It uses features built into the browsers that differentiate between browsers in order to determine what browser you are running
+
+Todo: 
+* Versions of browsers
+* Differentiate Chrome and Safari.
+* Future proof against Opera accepting webkit properties
