@@ -3,6 +3,7 @@ Cocaine is a browser detection library
 It uses features built into the browsers that differentiate between browsers in order to determine what browser you are running
 
 Todo: 
+* Make more robust detection of Internet Explorer, I'm unsure of its clarity further back than IE7.
 * Versions of browsers
 * Differentiate Chrome and Safari.
 * Future proof against Opera accepting webkit properties
